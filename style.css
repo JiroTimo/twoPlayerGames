@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+header {
+    position: sticky;
+    top: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    height: 7vh;
+
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
+}
